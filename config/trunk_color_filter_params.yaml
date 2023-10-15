@@ -1,0 +1,10 @@
+h_lower: 0
+h_upper: 180
+s_lower: 0
+s_upper: 255
+v_lower: 0
+v_upper: 110
+
+min_brick_size: 2000
+min_patch_size: 250
+erosion_factor: 10

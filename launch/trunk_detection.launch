@@ -1,0 +1,6 @@
+<launch>
+  <node name="trunk_detection" pkg ="vineyard_color_filter" type="vineyard_color_filter" output ="screen">
+    <rosparam command="load" file="$(find vineyard_color_filter)/config/trunk_color_filter_params.yaml"/>
+  </node>
+</launch>
+

@@ -1,2 +1,2 @@
-# vineyard-color-filter
-Vines recognition in vineyard
+# vineyard_color_filter
+HSV filter for detection in a vineyard
